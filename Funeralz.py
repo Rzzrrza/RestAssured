@@ -166,7 +166,7 @@ class MemorialManagementSystem:
     def run(self):
         while True:
             print("\n==========================================")
-            print(" FUNERAL SERVICE & MEMORIAL MANAGEMENT")
+            print("LEAHNE'S FUNERAL SERVICE & MEMORIAL MANAGEMENT")
             print("==========================================")
             print("1. Services and Packages Offered")
             print("2. Schedules")
