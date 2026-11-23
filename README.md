@@ -23,14 +23,19 @@
 
 
 7. Technologies used
+```
+1. Java – The main programming language used to develop the system.
+2. Java Collections Framework – Uses ArrayList, List, and HashMap to store and manage funeral packages, deceased records, schedules, and user accounts.
+3. Java Scanner Class – Used to accept user input through the console.
+4. Java String Formatting – Uses System.out.printf() and String.format() to display organized information, including package prices and records.
+5. Java IDE / Compiler – Used to write, compile, and run the Java program.
+```
 
-``` asdas  ```
-
-8. Team members and roles
+9. Team members and roles
 
 
 
-9. OOP concepts demonstrated
+10. OOP concepts demonstrated
 ```
 Encapsulation
 
