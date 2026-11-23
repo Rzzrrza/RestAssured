@@ -9,7 +9,7 @@ public class Main {
 
         while (true) {
             System.out.println("\n====================================================");
-            System.out.println(" LEAHNE'S FUNERAL SERVICE & MEMORIAL MANAGEMENT");
+            System.out.println("                    RestAssured ");
             System.out.println("====================================================");
             System.out.println("Current User: " + auth.getCurrentUser() + " [" + auth.getCurrentRole() + "]");
             System.out.println("----------------------------------------------------");
