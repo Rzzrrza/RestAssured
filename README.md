@@ -84,8 +84,6 @@ This shows polymorphism because both funeral package classes use the same displa
 
 ### Instructions for running the program 
 ---
-## Instructions for Running the Program
-
 ### SYSTEM REQUIREMENTS & SETUP
 
 1. Ensure that Java Development Kit (JDK 17 or higher) is installed and configured on your system.
