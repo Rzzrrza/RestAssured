@@ -92,6 +92,20 @@ This shows polymorphism because both funeral package classes use the same displa
 
 10. Instructions for running the program 
 
+## Instructions for Running the Program
+
+### SYSTEM REQUIREMENTS & SETUP
+
+1. Ensure that Java Development Kit (JDK 17 or higher) is installed and configured on your system.
+2. Click the **Code** button on this repository and select **Download ZIP** (or clone the repository directly).
+3. Extract the downloaded archive to an accessible folder on your computer.
+
+### EXECUTION STEPS
+
+1. Launch Visual Studio Code or your preferred Java IDE.
+2. Open the extracted project folder and navigate into the `src` directory.
+3. Select `Main.java` and click **Run**, or open a terminal inside `src` and execute `javac *.java` followed by `java Main`.
+4. *(Optional)* To access staff-level record management features, select **Login** from the main menu and sign in using `admin` as the username and `admin123` as the password.
 ---
 
 11. Sample screenshots
