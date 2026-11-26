@@ -4,25 +4,25 @@
 
 ---
 
-1. Project title
+### Project title
 ---
 
-2. Project description
+### Project description
 ---
 
-3. Problem being addressed
+### Problem being addressed
 ---
 
-4. Project objectives
+### Project objectives
 ---
 
-5. Target users
+### Target users
 ---
 
-6. Main features
+### Main features
 ---
 
-7. Technologies used
+### Technologies used
 ---
 ```
 1. Java – The main programming language used to develop the system.
@@ -32,10 +32,10 @@
 5. Java IDE / Compiler – Used to write, compile, and run the Java program.
 ```
 
-8. Team members and roles
+### Team members and roles
 ---
 
-9. OOP Concepts demonstrated
+### OOP Concepts demonstrated
 ---
 
 ```
@@ -82,7 +82,7 @@ public String displayDetails() {
 This shows polymorphism because both funeral package classes use the same displayDetails() method but show different information. The Burial Package displays its regular inclusions, while the Premium Memorial Package displays its premium services.
 ```
 
-10. Instructions for running the program 
+### Instructions for running the program 
 ---
 ## Instructions for Running the Program
 
@@ -99,18 +99,18 @@ This shows polymorphism because both funeral package classes use the same displa
 3. Select `Main.java` and click **Run**, or open a terminal inside `src` and execute `javac *.java` followed by `java Main`.
 4. *(Optional)* To access staff-level record management features, select **Login** from the main menu and sign in using `admin` as the username and `admin123` as the password.
 
-###SAMPLE SCREENSHOTS
+### SAMPLE SCREENSHOTS
 ---
 ![image alt](https://github.com/Rzzrrza/RestAssured/blob/00fd3241d061e1b23d574f022454e06f5909fb38/Screenshot%202026-11-26%20232454.png)
 ![image alt](https://github.com/Rzzrrza/RestAssured/blob/c73a64f9b4873d7613c56e9b2ca2b238f90b6071/screenshots/Screenshot%202026-11-26%20232616.png)
 ![image alt](https://github.com/Rzzrrza/RestAssured/blob/c73a64f9b4873d7613c56e9b2ca2b238f90b6071/screenshots/Screenshot%202026-11-26%20232642.png)
 ![image alt](https://github.com/Rzzrrza/RestAssured/blob/c73a64f9b4873d7613c56e9b2ca2b238f90b6071/screenshots/Screenshot%202026-11-26%20232701.png)
 
-12. Known limitations
+### Known limitations
 ---
 
-13. Future improvements
+### Future improvements
 ---
 
-14. Project contributors
+### Project contributors
 ---
