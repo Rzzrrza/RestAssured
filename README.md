@@ -109,8 +109,8 @@ This shows polymorphism because both funeral package classes use the same displa
 ---
 
 11. Sample screenshots
-
 ---
+![image alt](https://github.com/Rzzrrza/RestAssured/blob/00fd3241d061e1b23d574f022454e06f5909fb38/Screenshot%202026-11-26%20232454.png)
 
 12. Known limitations
 
