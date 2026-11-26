@@ -99,7 +99,7 @@ This shows polymorphism because both funeral package classes use the same displa
 3. Select `Main.java` and click **Run**, or open a terminal inside `src` and execute `javac *.java` followed by `java Main`.
 4. *(Optional)* To access staff-level record management features, select **Login** from the main menu and sign in using `admin` as the username and `admin123` as the password.
 
-11. Sample screenshots
+###SAMPLE SCREENSHOTS
 ---
 ![image alt](https://github.com/Rzzrrza/RestAssured/blob/00fd3241d061e1b23d574f022454e06f5909fb38/Screenshot%202026-11-26%20232454.png)
 ![image alt](https://github.com/Rzzrrza/RestAssured/blob/c73a64f9b4873d7613c56e9b2ca2b238f90b6071/screenshots/Screenshot%202026-11-26%20232616.png)
