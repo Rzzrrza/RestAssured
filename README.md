@@ -37,11 +37,11 @@
 5. Java IDE / Compiler – Used to write, compile, and run the Java program.
 ```
 
-9. Team members and roles
+8. Team members and roles
+
+9. OOP Concepts demonstrated
 
 
-
-10. OOP concepts demonstrated
 ```
 Encapsulation
 
@@ -85,9 +85,8 @@ public String displayDetails() {
 
 This shows polymorphism because both funeral package classes use the same displayDetails() method but show different information. The Burial Package displays its regular inclusions, while the Premium Memorial Package displays its premium services.
 ```
+
 10. Instructions for running the program 
-
-
 
 11. Sample screenshots
 
@@ -102,5 +101,9 @@ This shows polymorphism because both funeral package classes use the same displa
 
 
 14. Project contributors
+
+
+
+
 
 
