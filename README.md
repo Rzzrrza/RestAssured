@@ -6,27 +6,27 @@
 
 1. Project title
 
-
+---
 
 2. Project description
 
-
+---
 
 3. Problem being addressed
 
-
+---
 
 4. Project objectives
 
-
+---
 
 5. Target users
 
-
+---
 
 6. Main features
 
-
+---
 
 7. Technologies used
 ```
@@ -36,8 +36,11 @@
 4. Java String Formatting – Uses System.out.printf() and String.format() to display organized information, including package prices and records.
 5. Java IDE / Compiler – Used to write, compile, and run the Java program.
 ```
+---
 
 8. Team members and roles
+
+---
 
 9. OOP Concepts demonstrated
 
@@ -85,25 +88,24 @@ public String displayDetails() {
 
 This shows polymorphism because both funeral package classes use the same displayDetails() method but show different information. The Burial Package displays its regular inclusions, while the Premium Memorial Package displays its premium services.
 ```
+---
 
 10. Instructions for running the program 
 
+---
+
 11. Sample screenshots
 
-
+---
 
 12. Known limitations
 
-
+---
 
 13. Future improvements
 
-
+---
 
 14. Project contributors
 
-
-
-
-
-
+---
