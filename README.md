@@ -20,8 +20,8 @@ The program aims to:
 ---
 
 ### Target users
-1.Funeral Home Administrator - Manages deceased records, funeral packages, schedules, documents, and payments.
-2.Family Representative - Provides the deceased's information, selects funeral services, and views service schedules and memorial information.
+1. Funeral Home Administrator - Manages deceased records, funeral packages, schedules, documents, and payments.
+2. Family Representative - Provides the deceased's information, selects funeral services, and views service schedules and memorial information.
 
 ---
 
