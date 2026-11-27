@@ -1,4 +1,4 @@
-# Funeral Service and Memorial Management
+# RestAssured: Funeral Service and Memorial Management
 
 ***Description:*** "RestAssured" is a Java console-based management system designed to streamline funeral arrangements and record keeping. Families can conveniently browse available service packages, prices, and open schedules without needing to visit in person, while staff can log in to generate unique deceased record numbers, track required documents and payment statuses, and quickly search or update client records.
 
